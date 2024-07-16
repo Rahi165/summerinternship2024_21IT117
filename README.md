@@ -7,13 +7,46 @@
 This project showcases the comprehensive work accomplished during my internship, highlighting the valuable knowledge and hands-on experience gained throughout the period. The primary focus was on developing practical solutions and acquiring in-depth expertise in various advanced technologies and methodologies.
 
 ## Start of Internship!
-
 ## WEEK 1
 ### 16th May 2024
 - Orientation Meeting: Introduction to Machine Learning
 - At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
+- Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+- Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ### Here is the Outline of Week-1:
+* Getting awareness of the technologies in use
+* Obtaining expertise of the technologies 
+* Performing uncomplicated tasks for project-based 
+* Developing fresh skills
+
+## 📝 Day-by-Day Progress
+### Day 1: Getting awareness of the technologies in use
+- Understanding Linear Regression: Linear regression is a fundamental statistical technique used to model the relationship between a dependent variable (house prices) and one or more independent variables (such as square footage, number of bedrooms, and number of bathrooms). It assumes a linear relationship between the predictor variables and the target variable.
+  
+### Day 2: Obtaining expertise of the technologies 
+- Python and Libraries: Familiarization with Python is essential for implementing the linear regression model. Python offers powerful libraries like NumPy for numerical operations, Pandas for data manipulation, and Scikit-learn for implementing machine learning algorithms, including linear regression.
+- Implementing the linear regression model involves writing Python code to fit the model to training data, where the model learns the relationship between the independent variables (square footage, bedrooms, bathrooms) and the dependent variable (house prices). This process includes:
+-- Data preparation: Gathering and cleaning data, handling missing values, and ensuring data quality. Feature selection, Model training, Model evaluation.
+  
+### Day 3: Performing uncomplicated tasks for project-based 
+- Data Collection and Preprocessing:
+Gathering a dataset that includes information on house prices, square footage, bedrooms, and bathrooms from reliable sources or datasets like those available on platforms such as Kaggle.
+- Preprocessing the data involves cleaning, transforming, and normalizing the data to ensure that it is suitable for training the linear regression model. Techniques such as feature scaling (if necessary) and handling categorical variables (if applicable) may also be considered.
+- Model Development and Validation: Developing the linear regression model involves splitting the dataset into training and test sets to train the model on one set and validate it on another. Validating the model's performance through techniques like cross-validation to ensure that it generalizes well to unseen data and does not overfit.
+  
+### Day 4: Developing fresh skills
+- Enhancing Model Performance:
+Learning techniques for improving the linear regression model's performance, such as regularization (e.g., Ridge or Lasso regression) to prevent overfitting and improve prediction accuracy.
+- Exploring advanced topics like feature engineering to create new features that may enhance the model's predictive power.
+  
+## WEEK 2
+### 23th May 2024
+- Orientation Meeting: Task 2 is given
+- Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
+- Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python 
+
+### Here is the Outline of Week-2:
 * Learning about the technologies being used
 * Learning the technologies
 * Compeleting simple tasks for project based learning
@@ -41,16 +74,17 @@ I learned techniques for data normalization and scaling to ensure that features 
 - Feature engineering is a crucial aspect of improving the clustering results. Creating new features from the raw data can provide additional insights and enhance the clustering quality. Experimenting with different feature combinations can lead to more meaningful customer segments. Furthermore, analyzing and interpreting the formed clusters is essential to understand the characteristics of each segment.
 - This analysis can inform business strategies, such as targeted marketing and personalized offers, making the clustering results actionable and valuable for the organization.
 
-## WEEK 2
-### 23th May 2024
-- Meeting: Task 2 is given
-- At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
+## WEEK 3
+### 30th May 2024
+- Meeting: Task 3 is given
+- Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
+- Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 
-### Here is the Outline of Week-2:
+### Here is the Outline of Week-3:
 * Learning About the Technologies Being Used
-* Learning the technologies
-* Compeleting simple tasks for project based learning
-* Learning new skils
+* Acquiring technology knowledge
+* Finishing moderate assignments for project-based learning 
+* Obtaining new skills
 
 ## 📝 Day-by-Day Progress
 ### Day 1: Learning about the technologies being used
