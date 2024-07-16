@@ -13,6 +13,7 @@ This project showcases the comprehensive work accomplished during my internship,
 - At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
 - Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 - Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
 ![1*mzSZsdo8lKkahN5S-Uk_qA](https://github.com/user-attachments/assets/d86cd679-5445-4a47-8fa7-8a2c92bb14af)
 
 ### Here is the Outline of Week-1:
