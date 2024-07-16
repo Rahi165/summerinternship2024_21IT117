@@ -120,7 +120,7 @@ Implement cross-validation techniques to assess the model’s performance on dif
 - Meeting: Task 4 is given
 - Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems.
 - Dataset: https://www.kaggle.com/gti-upm/leapgestrecog
-![1-s2 0-S2590123023007661-gr005](https://github.com/user-attachments/assets/702a2093-a48c-4c1d-89de-02916104882c)
+![6f13aa00-dc31-11eb-9ecf-7b3be6232d99](https://github.com/user-attachments/assets/ab48e807-dcc4-4f15-8ca3-61ddaa557291)
 
 ### Here is the Outline of Week-4:
 * Acquiring insight into the technologies in use 
