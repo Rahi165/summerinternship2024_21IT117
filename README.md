@@ -19,7 +19,7 @@ This project showcases the comprehensive work accomplished during my internship,
 * Compeleting simple tasks for project based learning
 * Learning new skils
 
-## Day-by-Day Progress
+## 📝 Day-by-Day Progress
 ### Day 1: Learning about the technologies being used
 - On the first day, the primary task was to delve into the K-means clustering algorithm for customer segmentation. This involved several key activities aimed at laying the groundwork for effective customer segmentation.
 - Studying Core Principles and Centroid Initialization:
@@ -40,5 +40,25 @@ I learned techniques for data normalization and scaling to ensure that features 
 ### Day 4: Learning new skils
 - Feature engineering is a crucial aspect of improving the clustering results. Creating new features from the raw data can provide additional insights and enhance the clustering quality. Experimenting with different feature combinations can lead to more meaningful customer segments. Furthermore, analyzing and interpreting the formed clusters is essential to understand the characteristics of each segment.
 - This analysis can inform business strategies, such as targeted marketing and personalized offers, making the clustering results actionable and valuable for the organization.
+
+## WEEK 2
+### 23th May 2024
+- Meeting: Task 2 is given
+- At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
+
+### Here is the Outline of Week-2:
+* Learning About the Technologies Being Used
+* Learning the technologies
+* Compeleting simple tasks for project based learning
+* Learning new skils
+
+## 📝 Day-by-Day Progress
+### Day 1: Learning about the technologies being used
+- Understanding Support Vector Machines (SVM):
+Study the fundamental principles of SVM, including how it classifies data by finding the optimal separating hyperplane.
+Explore the kernel trick and its role in transforming non-linearly separable data into higher dimensions where a linear separation is possible.
+- Familiarizing with Image Data and Preprocessing:
+Learn about common image preprocessing techniques such as resizing, normalization, and augmentation to prepare images for machine learning models.
+Understand the characteristics and challenges of working with image data, including varying image sizes and the need for consistent preprocessing.
 
 
