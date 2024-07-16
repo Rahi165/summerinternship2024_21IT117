@@ -12,5 +12,6 @@ This project showcases the comprehensive work accomplished during my internship,
 ### 16th May 2024
 - Orientation Meeting: Introduction to Machine Learning
 - At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
-[gif](https://github.com/user-attachments/assets/98d496d4-4958-490b-a751-e506a49490ab)
 
+
+<img width="370" alt="Screenshot 2024-07-14 at 1 01 22 PM" src="https://github.com/user-attachments/assets/a1be1dfe-b334-4be1-a4a9-ffe50f14a2f3">
