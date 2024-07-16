@@ -8,11 +8,12 @@ This project showcases the comprehensive work accomplished during my internship,
 
 ## Start of Internship!
 ## WEEK 1
-### 16th May 2024
+### 1️⃣6️⃣th May 2024
 - Orientation Meeting: Introduction to Machine Learning
 - At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
 - Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 - Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+![1*mzSZsdo8lKkahN5S-Uk_qA](https://github.com/user-attachments/assets/d86cd679-5445-4a47-8fa7-8a2c92bb14af)
 
 ### Here is the Outline of Week-1:
 * Getting awareness of the technologies in use
@@ -41,10 +42,11 @@ Learning techniques for improving the linear regression model's performance, suc
 - Exploring advanced topics like feature engineering to create new features that may enhance the model's predictive power.
   
 ## WEEK 2
-### 23th May 2024
+### 2️⃣3️⃣th May 2024
 - Orientation Meeting: Task 2 is given
 - Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
-- Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python 
+- Dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+![c3162bc6-c741-4846-958c-829cd9d1a7ba](https://github.com/user-attachments/assets/b04a5488-f641-43ba-a996-0aecf18d717d)
 
 ### Here is the Outline of Week-2:
 * Learning about the technologies being used
@@ -75,10 +77,11 @@ I learned techniques for data normalization and scaling to ensure that features 
 - This analysis can inform business strategies, such as targeted marketing and personalized offers, making the clustering results actionable and valuable for the organization.
 
 ## WEEK 3
-### 30th May 2024
+### 3️⃣0️⃣th May 2024
 - Meeting: Task 3 is given
 - Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
 - Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
+![Cat-and-Dog-Classification-80](https://github.com/user-attachments/assets/8ddbd5bf-92d8-455d-a76c-da312ced8b23)
 
 ### Here is the Outline of Week-3:
 * Learning About the Technologies Being Used
@@ -111,3 +114,39 @@ Learn techniques for hyperparameter tuning, such as grid search and random searc
 - Model Validation and Cross-Validation:
 Implement cross-validation techniques to assess the model’s performance on different subsets of the data, ensuring robustness and preventing overfitting. Analyze cross-validation results to identify the best performing model and validate its performance on the test set.
 
+## WEEK 4
+### 6️⃣th June 2024
+- Meeting: Task 4 is given
+- Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems.
+- Dataset: https://www.kaggle.com/gti-upm/leapgestrecog
+![1-s2 0-S2590123023007661-gr005](https://github.com/user-attachments/assets/702a2093-a48c-4c1d-89de-02916104882c)
+
+### Here is the Outline of Week-4:
+* Acquiring insight into the technologies in use 
+* Increasing awareness of the technologies 
+* Completing simple duties for project-based 
+* Obtaining new skills
+* Submitting work
+
+## 📝 Day-by-Day Progress
+### Day 1: Acquiring insight into the technologies in use 
+- Understanding Gesture Recognition: Gesture recognition involves the process of interpreting human gestures via mathematical algorithms. It uses computer vision techniques to analyze images or video frames, recognizing and interpreting gestures as commands.
+  
+### Day 2: Increasing awareness of the technologies 
+- Python and Computer Vision Libraries: Familiarization with Python is essential for implementing the hand gesture recognition model. Python offers robust libraries like OpenCV for image and video processing, TensorFlow or PyTorch for deep learning models, and Scikit-learn for machine learning tasks.
+- Implementation of Gesture Recognition: Implementing the model includes using deep learning techniques such as Convolutional Neural Networks (CNNs) for image recognition or Recurrent Neural Networks (RNNs) for sequential data processing, depending on the nature of gesture recognition (static images vs. dynamic gestures in videos).
+  
+### Day 3: Completing simple duties for project-based 
+- Data Collection and Preprocessing: Gathering a dataset containing images or videos of various hand gestures, ensuring diverse representation of gestures and environmental conditions. Preprocessing involves standardizing image sizes, converting images to grayscale or RGB, and normalizing pixel values for consistency and model performance.
+- Model Development and Training:
+-- Developing the gesture recognition model involves:
+-- Designing a CNN or RNN architecture suitable for the task.
+-- Splitting the dataset into training, validation, and test sets.
+-- Training the model on labeled data to learn to recognize and classify different hand gestures.
+  
+### Day 4: Obtaining new skills
+- Advanced Techniques in Gesture Recognition: Learning advanced techniques like transfer learning to leverage pre-trained models for improved performance with limited data.Exploring real-time gesture recognition methods using video streams and techniques for optimizing model inference speed and accuracy.
+  
+### Day 5: Submitting work
+- Documentation and Evaluation: Documenting the project's progress, including data collection, preprocessing steps, model architecture, training process, and evaluation metrics. Evaluating the model's performance using accuracy, precision, recall, and F1-score metrics, and presenting the results with insights on model strengths and limitations.
+- Submitting it to the Company.
