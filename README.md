@@ -13,7 +13,6 @@ This project showcases the comprehensive work accomplished during my internship,
 - At the start of the meeting, I addressed key questions regarding machine learning to ensure a solid understanding of its foundational concepts and techniques. This discussion set the stage for effectively applying machine learning methods throughout the project.
 - Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 - Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
-
 ![1*mzSZsdo8lKkahN5S-Uk_qA](https://github.com/user-attachments/assets/d86cd679-5445-4a47-8fa7-8a2c92bb14af)
 
 ### Here is the Outline of Week-1:
@@ -120,7 +119,7 @@ Implement cross-validation techniques to assess the model’s performance on dif
 - Meeting: Task 4 is given
 - Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems.
 - Dataset: https://www.kaggle.com/gti-upm/leapgestrecog
-![6f13aa00-dc31-11eb-9ecf-7b3be6232d99](https://github.com/user-attachments/assets/ab48e807-dcc4-4f15-8ca3-61ddaa557291)
+![gestures-challenges-opportunities-hand webp](https://github.com/user-attachments/assets/62471c3b-f73a-4ba4-abf0-038870fc773c)
 
 ### Here is the Outline of Week-4:
 * Acquiring insight into the technologies in use 
